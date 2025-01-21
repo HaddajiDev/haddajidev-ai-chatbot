@@ -50,6 +50,7 @@ export default async function RootLayout({
       suppressHydrationWarning
     >
       <head>
+        <link rel="icon" href="https://res.cloudinary.com/dqkvgv7mh/image/upload/v1723796041/zkhg2eb84wb8tmxvjay7.png" />
         <script
           dangerouslySetInnerHTML={{
             __html: THEME_COLOR_SCRIPT,
